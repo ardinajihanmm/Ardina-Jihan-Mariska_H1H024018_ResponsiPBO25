@@ -51,3 +51,7 @@ Pokémon Oddish, melakukan latihan, dan memantau riwayat latihan menggunakan kon
 2. Akses melalui browser:
    - `http://localhost/PokeCare_Oddish/index.php`
 4. Lakukan beberapa sesi latihan lalu cek halaman riwayat Latihan
+
+## Demo Aplikasi
+
+![Demo PokéCare Oddish](demo/oddish-demo.gif)
